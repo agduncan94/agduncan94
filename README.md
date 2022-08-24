@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-My name is Andrew Duncan and I am a PhD Candidate in Cell & Systems Biology.
-
-[![agduncan94's github stats](https://github-readme-stats.vercel.app/api?username=agduncan94&show_icons=true&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+My name is Andrew Duncan and I am a PhD Candidate in the Department of Cell & Systems Biology at the University of Toronto.
